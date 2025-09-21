@@ -1,17 +1,6 @@
 # ATS-Tracker
 ---
 
-# ATS-Tracker
-
-
-Welcome to the ATS-Tracker repository! This project is a powerful LLM-based tool designed to analyze resumes, calculate ATS (Applicant Tracking System) scores, and match job descriptions (JD) with resumes.
-
-
-## DEMO
-
-https://github.com/user-attachments/assets/cebbaffd-09bf-4ae8-b52a-f2e47ca3affc
-
-
 ## Table of Contents
 
 - [Features](#features)
@@ -34,7 +23,7 @@ To get started with ATS-Tracker, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/AadityaSukhoi/ATS-Tracker.git
+   
     ```
 
 2. **Navigate to the project directory**:
@@ -72,10 +61,6 @@ We welcome contributions to improve ATS-Tracker! Please follow these steps to co
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## LinkedIn Post link
-https://www.linkedin.com/feed/update/urn:li:activity:7224533966802804739/
----
+
