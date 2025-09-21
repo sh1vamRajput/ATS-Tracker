@@ -23,7 +23,7 @@ To get started with ATS-Tracker, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-   
+   https://github.com/sh1vamRajput/ATS-Tracker.git
     ```
 
 2. **Navigate to the project directory**:
